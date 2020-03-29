@@ -1,0 +1,8 @@
+body {
+    font-family: 'Bellota Text', cursive;
+    background-color: lightgray;
+}
+.cajaContacto {
+    background-color: white;
+    border-radius: 5px;
+}
